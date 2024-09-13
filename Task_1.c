@@ -31,7 +31,6 @@ int main()
                 found = 1;
             }
         }
-
         if (found == 0)
         {
             incorrectGuesses++;
