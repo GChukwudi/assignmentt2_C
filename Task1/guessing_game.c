@@ -1,11 +1,3 @@
-// Predefine a list of words.
-// Randomly select a word from the list.
-// Display the word as underscores (_), hiding the actual letters.
-// Allow the user to guess one letter at a time.
-// If the guessed letter is in the word, reveal it in the correct positions.
-// If the guessed letter is not in the word, increment the incorrect guess count.
-// End the game if the user makes 6 incorrect guesses or if the word is fully guessed.
-
 #include <stdio.h>
 #include <string.h>
 
